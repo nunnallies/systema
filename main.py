@@ -348,4 +348,4 @@ Les arbres semblent farceur puisque beaucoup de nouveaux visiteurs se perdent et
 
 
 
-bot.run("MTIxMDMwMjYwMTMyNTg0NjY2MA.GYfMec.6vFNnhVDLn66EL3odPF4cAXJ6ba1ryLMvFlApQ")
+bot.run("")
